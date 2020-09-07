@@ -46,7 +46,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "How To Be A Technical Co-Founder"
 
 #
 # Published Setting
@@ -58,7 +58,7 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing GitPitch Markdown Presentations for Developers."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
+title : "How To Be A Technical Co-Founder"
+description : "A short overview of what to do as a technical co-founder."
+#thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
