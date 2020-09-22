@@ -1,4 +1,4 @@
-## How to be a **technical co-founder**
+## How to be a technical co-founder
 
 ---
 

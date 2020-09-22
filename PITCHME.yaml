@@ -33,8 +33,8 @@ theme-override: assets/css/PITCHME.css
 # Logo Setting
 # https://gitpitch.com/docs/settings/logo
 #
-logo : assets/img/logo.png
-logo-position : top-left
+# logo : assets/img/logo.png
+# logo-position : top-left
 
 #
 # Layout Setting
@@ -46,7 +46,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "How To Be A Technical Co-Founder"
+footnote : "How to be a technical co-founder"
 
 #
 # Published Setting
@@ -58,7 +58,7 @@ published : true
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "How To Be A Technical Co-Founder"
+title : "How to be a technical co-founder"
 description : "A short overview of what to do as a technical co-founder."
 #thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
 
