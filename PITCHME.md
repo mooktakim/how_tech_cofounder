@@ -1,4 +1,4 @@
-# Let's Get **Started**
+# How to be a technical co-founder
 
 ---
 
